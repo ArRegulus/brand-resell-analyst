@@ -1,0 +1,40 @@
+.app-header--title {
+    height: 60px;
+    line-height: 60px;
+    border-bottom: thin lightgrey solid;
+    font-size: 22px;
+    padding-left: 5px;
+    text-align: center;
+}
+
+.dropdownMenu{
+    width: 20%;
+    margin: auto;
+    font-size: 18px;
+    padding-left: 20px;
+    flex: 1;
+    text-align: center;
+
+}
+
+Label{
+    height: 60px;
+    line-height: 60px;
+}
+
+.graphs{
+    flex: 1;
+    text-align: center;
+    display: block;
+}
+
+
+.axis_selector_div{
+    width: 15%;
+    display: inline-block;
+
+}
+.RadioItems{
+    margin: auto;
+    text-align: center;
+}
