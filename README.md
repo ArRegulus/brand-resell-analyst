@@ -10,6 +10,9 @@ $
 
 You need to download the driver for your browser and put it in a driver folder.
 
+## Live APP 
+You can access the visualization dashboard here : https://brand-resell-analyst.herokuapp.com/
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
